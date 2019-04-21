@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/1.5.2 (+https://scrapy.org)
+Accept-Encoding: gzip,deflate
+Cookie: SRT=TART_SYNC; TART=%1%enc%3A4bqYXG1%2Ba1jJxGZbRPcTCElGaXk9bX49qZGA37VJl5c5fk7M%2BamnJ5nr3%2FR1UWiBvWwd9%2FZ1jVM%3D; TASession=%1%V2ID.86757EB34EFB5478AD9EBA176EC8AF11*SQ.1*LP.%2FHotels-g294212-Beijing-Hotels%5C.html*GR.64*TCPAR.62*TBR.6*EXEX.44*ABTR.93*PHTB.78*FS.54*CPU.95*HS.recommended*ES.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*DF.0*TRA.true; ServerPool=R; TATravelInfo=V2*A.2*MG.-1*HP.2*FL.3*RS.1; TAUnique=%1%enc%3Am9koWz9AusESIxhjPNq08C7yeeUqrehhrkbty6e9sGU1jFGw1G8Jhw%3D%3D
